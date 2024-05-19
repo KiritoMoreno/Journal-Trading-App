@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">TradingJournalPruebaFinal</string>
+    <string name="graphics">Over View Graphics</string>
+    <string name="journal">Journal</string>
+    <string name="analysis">Analysis</string>
+    <string name="calculator">Calculator</string>
+    <string name="trading_journal">TradingJournal</string>
+    <string name="dash_board">Dash Board</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="log_in">Log In</string>
+    <string name="email">Email:</string>
+    <string name="Password">Password:</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sing_up">Sing UP</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="logout">Logout</string>
+
+    <string name="registration">Registration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="alphanumeric">Alphanumeric</string>
+    <string name="uppercase_letter">Uppercase Letter</string>
+    <string name="lowercase_letter">Lowercase Letter</string>
+    <string name="special_character">Special Character</string>
+    <string name="already_have_accounnt">Already have account? Sing In Here</string>
+
+    <string name="eur_usd">EUR/USD</string>
+    <string name="xau_usd">XAU/USD</string>
+
+    <string name="entry_price">Entry Price</string>
+    <string name="stop_loss">Stop Loss</string>
+    <string name="risk_ammount">Risk Amount</string>
+    <string name="required">Required</string>
+    <string name="lot_size">Lot Size</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="total_balance">TOTAL BALANCE</string>
+    <string name="total_balance_num">0 %</string>
+    <string name="win">Win</string>
+    <string name="loss">Loss</string>
+    <string name="transactions">Transactions</string>
+
+    <string name="instrument">Instrument</string>
+    <string name="day">Day</string>
+    <string name="strategy">Strategy</string>
+    <string name="take_profit_price">Take Profit Price</string>
+    <string name="risk">Risk</string>
+    <string name="add">Add Transaction</string>
+    <string name="update">Update Transaction</string>
+    <string name="win_loss_percentage">Percentage W/L</string>
+    <string name="win_loss">Win / Loss</string>
+    <string name="emotion">Emotion</string>
+
+    <string name="money">$$</string>
+    <string name="numeral">##</string>
+    <string name="porcentaje">0 %</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="filter">Filter</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="risk_chart">Transaction Risk Chart</string>
+    <string name="trend_chart">Trend Chart</string>
+    <string name="instrument_chart">Instruments Frequency Chart</string>
+    <string name="risk_chart_analysis">Transactions Risk Analysis Chart</string>
+    <string name="trend_chart_analysis">Strategics Transaction Analysis Charts</string>
+    <string name="instrument_chart_analysis">Instruments Frequency Analysis Chart</string>
+    <string name="session">Session</string>
+    <string name="asia_session">Asia Session</string>
+    <string name="london_session">London Session</string>
+    <string name="ny_session">NY Session</string>
+    <string name="emotions_chart">Emotions Chart</string>
+
+
+</resources>

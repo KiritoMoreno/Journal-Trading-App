@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:background="@color/background_component_selected"
+    tools:openDrawer="start"
+    tools:context=".HomeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/edittext_background"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dash_board"
+            style="@style/TitleStyle"
+            android:layout_weight="1"
+            />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="40dp"
+            >
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                >
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNavGraphics"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:text="@string/graphics"
+                    android:textAppearance="?android:textAppearanceLarge"
+                    android:padding="20dp"
+                    android:textColor="@color/white"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/btn_dashboard_background"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNavJournal"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:text="@string/journal"
+                    android:textAppearance="?android:textAppearanceLarge"
+                    android:padding="20dp"
+                    android:textColor="@color/white"
+                    android:background="@drawable/btn_dashboard_background"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="40dp"
+            >
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                >
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNavAnalysis"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:text="@string/analysis"
+                    android:textAppearance="?android:textAppearanceLarge"
+                    android:padding="20dp"
+                    android:textColor="@color/white"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/btn_dashboard_background"
+
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNavCalculator"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:text="@string/calculator"
+                    android:textAppearance="?android:textAppearanceLarge"
+                    android:padding="20dp"
+                    android:textColor="@color/white"
+                    android:background="@drawable/btn_dashboard_background"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
