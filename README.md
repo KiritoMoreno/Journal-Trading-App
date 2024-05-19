@@ -42,16 +42,16 @@ The **TradingJournal** application is designed to help users manage and analyze 
 
 | ### DashBoard | ### Calculator |
 |---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Dashboard.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Calculator.png" style="height: 20%; width:50%;"/> |
 
 | ### Journal | ### Add Transaction |
 |---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Journal.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Add.png" style="height: 20%; width:90%;"/> |
 
 | ### Update Transaction | ### Graphics |
 |---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Update.png" style="height: 50%; width:90%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/GraphicOverView.png" style="height: 20%; width:50%;"/> |
 
-| ### Analysis  |
+| ### Analysis  |  |
 |---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Analysis-1.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Analysis-2.png" style="height: 20%; width:50%;"/> |
