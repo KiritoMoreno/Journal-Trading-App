@@ -40,18 +40,19 @@ La aplicación **TradingJournal** está diseñada para ayudar a los usuarios a g
 
 - **JUnit y Espresso**: JUnit es un marco de pruebas unitarias ampliamente utilizado para Android, mientras que Espresso es un marco de pruebas de interfaz de usuario que permite escribir pruebas de integración para asegurar la calidad y fiabilidad de nuestra aplicación.
 
-| ### DashBoard | ### Calculator |
-|---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| DashBoard | Calculator |
+|:---:|:---:|
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Dashboard.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Calculator.png" style="height: 20%; width:50%;"/> |
 
-| ### Journal | ### Add Transaction |
-|---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| Journal | Add Transaction |
+|:---:|:---:|
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Journal.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Add.png" style="height: 20%; width:90%;"/> |
 
-| ### Update Transaction | ### Graphics |
-|---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| Update Transaction | Graphics |
+|:---:|:---:|
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Update.png" style="height: 50%; width:90%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/GraphicOverView.png" style="height: 20%; width:50%;"/> |
 
-| ### Analysis  |
-|---|---|
-| <img src="" style="height: 20%; width:20%;"/> | <img src="" style="height: 20%; width:20%;"/> |
+| Analysis  |  |
+|:---:|:---:|
+| <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Analysis-1.png" style="height: 20%; width:50%;"/> | <img src="https://github.com/KiritoMoreno/Journal-Trading-App/blob/main/Img/Analysis-2.png" style="height: 20%; width:50%;"/> |
+
